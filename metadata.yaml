@@ -1,0 +1,35 @@
+_repo: Kevatsade-b-Valikoima-ruotsalaista-lyriikkaa_71720
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Vaara, Elina
+    gutenberg_agent_id: '56352'
+    url: http://www.gutenberg.org/2009/agents/56352
+  - agent_name: Viljanen, Lauri
+    gutenberg_agent_id: '56353'
+    url: http://www.gutenberg.org/2009/agents/56353
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-09-25'
+identifiers:
+  gutenberg: '71720'
+language: fi
+pgterms:marc905: 20230912065248various
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kevätsade : $b Valikoima ruotsalaista lyriikkaa'
+url: http://www.gutenberg.org/ebooks/71720
