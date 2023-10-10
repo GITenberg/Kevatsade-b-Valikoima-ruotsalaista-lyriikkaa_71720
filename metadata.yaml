@@ -8,6 +8,9 @@ contributor:
   - agent_name: Viljanen, Lauri
     gutenberg_agent_id: '56353'
     url: http://www.gutenberg.org/2009/agents/56353
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71720#Kevatsade-b-Valikoima-ruotsalaista-lyriikkaa
 gutenberg_issued: '2023-09-25'
 identifiers:
   gutenberg: '71720'
